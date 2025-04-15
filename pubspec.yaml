@@ -1,0 +1,31 @@
+name: dice_roll
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+
+
+  assets:  
+    - asset/dice_1.png
+    - asset/dice_2.png
+    - asset/dice_3.png
+    - asset/dice_4.png
+    - asset/dice_5.png
+    - asset/dice_6.png
+  
